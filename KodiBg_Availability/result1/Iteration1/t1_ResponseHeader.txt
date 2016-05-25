@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Gruda
+Date: Wed, 18 May 2016 11:51:13 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=10
+Set-Cookie: mybb[lastvisit]=1463572273; expires=Thu, 18-May-2017 11:51:13 GMT; path=/forum/; domain=.kodibg.org
+Set-Cookie: mybb[lastactive]=1463572273; expires=Thu, 18-May-2017 11:51:13 GMT; path=/forum/; domain=.kodibg.org
+Set-Cookie: sid=dd0d096b1c0bf536607491d5b2c55a66; path=/forum/; domain=.kodibg.org; HttpOnly
+Content-Encoding: gzip
+
